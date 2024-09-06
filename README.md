@@ -7,6 +7,7 @@ The cybros labs K8S cluster no. 1 is a Prague located main cluster.
 This section provides a detailed explanation of the network configuration, including public IP addresses, CIDR ranges, and floating IPs used within the infrastructure.
 
 This is new
+This is even more new.
 
 - WAN (Port 9): `82.142.74.110`
   - This is the primary public IP address assigned to the WAN interface on port 9. It is used for inbound and outbound traffic to/from the network.
